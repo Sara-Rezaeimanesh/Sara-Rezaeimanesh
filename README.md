@@ -1,4 +1,4 @@
-- 👋 I play on the NA server/ Discord: Helios#81078
+- 👋 I play on the NA server/ Discord: Helios#8739
 
 <!---
 Zhongli-xiansheng/Zhongli-xiansheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
