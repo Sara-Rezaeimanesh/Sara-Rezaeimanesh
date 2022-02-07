@@ -1,3 +1,3 @@
 - Thank you for checking out my github profile. 
 - I have uploaded my most important course projects and the projects I've worked on independently here.
-- The persian project descriptions are uploaded alongside most projects and there is also a short summary of the project description in the readme file.  
+- The Persian project descriptions are uploaded alongside most projects and there is also a short summary of them in English in the readme file.  
